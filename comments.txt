@@ -1,0 +1,16 @@
+package testing;
+
+public class master {
+
+	public static void main(String[] args) {
+
+		System.out.println("Taslima Akter Torin"); //displaying my name
+		
+		System.out.println(23); /*displaying my age */
+		
+		System.out.println("Tangail");   /* displaying my home */
+		
+
+	}
+
+}
