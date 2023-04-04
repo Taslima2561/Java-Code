@@ -1,0 +1,11 @@
+package testing;
+
+public class master {
+
+	public static void main(String[] args) {
+		System.out.println("jiku");
+		System.out.print("we are bangladeshian");
+
+	}
+
+}
